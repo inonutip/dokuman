@@ -1,5 +1,6 @@
 
 .. _contents:
+İNÖNÜ ÜNİVERSİTESİ
 
 `Tıp Fakültesi <http://tip.inonu.edu.tr/>`_ Yönergeleri
 =======================================================
@@ -9,6 +10,12 @@
 
    egitim/index
    kdt/index
+   secmeliders/index
+   onhekimlik/index
+   olcme/index
+   temsilci/index
+   genclikbirimi/index
+   tipuzman/index
 
 Dizin ve Tablolar
 =================

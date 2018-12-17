@@ -193,7 +193,7 @@ Madde 15 - Sınav ve Değerlendirme Esasları
 
       (2) Dönem sonu ve staj sonu sınavına mazereti nedeniyle devamsızlık sınırını aştığı için giremeyecek olan öğrencilerin durumu Fakülte Yönetim Kurulunca değerlendirilir.
 
-Bölüm 5 - Dönem I, II ve III ile İlgili Esaslar
+Bölüm 5 : Dönem I, II ve III ile İlgili Esaslar
 ===============================================
 
 Madde 16 – Sınavlar
@@ -296,7 +296,7 @@ Madde 22 - Ön Hekimlik Dönemi
 
    f) Ön hekimlik döneminde başarılı olmak için, öğrencilerin bu dönemdeki dilimlerde Fakülte Kurulunca belirtilen sürelerle bilfiil çalışmış olmaları ve süreyi tamamlamaları, zorunlu hâller dolayısıyla eksik kalan çalışmalarını da başarı ile tamamlamaları gerekir. Başarısız oldukları takdirde bu stajları normal süreleri kadar tekrar ederler. Bir stajın %10’una mazeretsiz devam etmeyenler o dilimi tam süre ile tekrar ederler. Seçmeli stajlarda başarısız olan öğrenciler, başarısız oldukları stajlarda değiştirmek isterlerse yeni staja tam süre ile devam ederler.
 
-Bölüm 8 - Diplomalar ve Başarı Derecesi
+Bölüm 8 : Diplomalar ve Başarı Derecesi
 =======================================
 
 Madde 23 - Diplomalar

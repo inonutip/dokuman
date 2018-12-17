@@ -3,8 +3,8 @@ KANITA DAYALI TIP UYGULAMALARI YÖNERGESİ
 ****************************************
 
 
-Amaç, Kapsam, Dayanak ve Tanımlar
-=================================
+Bölüm 1 : Amaç, Kapsam, Dayanak ve Tanımlar
+===========================================
 
 Amaç
 """"
@@ -33,8 +33,8 @@ Tanımlar
     i) Kongre: Her eğitim-öğretim yılı Bahar Döneminde düzenlenen bilimsel öğrenci kongresini,
     j) Öğrenci temsilcisi: Dekan tarafından her eğitim-öğretim yılı başında seçilen öğrenciyi ifade eder.
 
-Komisyonunun Oluşumu, Çalışması, Görev ve Sorumlulukları
-========================================================
+Bölüm 2 : Komisyonunun Oluşumu, Çalışması, Görev ve Sorumlulukları
+==================================================================
 
 Komisyonun Oluşumu
 """"""""""""""""""
@@ -60,8 +60,8 @@ i) Poster ve sözlü sunum değerlendirme jürilerini teklif etmek,
 j) Kanıta dayalı tıp uygulamaları ile ilgili Dekanlık tarafından verilen diğer görevleri yapmak.
 
 
-Kanıta Dayalı Tıp Uygulamaları Süreci İlkeleri
-==============================================
+Bölüm 3 : Kanıta Dayalı Tıp Uygulamaları Süreci İlkeleri
+========================================================
 
 Dönem I  KDT uygulama  esasları
 -------------------------------
@@ -128,8 +128,8 @@ e) Slaytlar görsel olarak sunuma uygun olmalıdır.
 
 f) Konu başlıkları 40-60 punto, alt başlıklar 30-32 punto ve yazılar 24-28 punto arasındaki büyüklükte olmalıdır.
 
-Yürürlük ve Yürütme
-===================
+Bölüm 4 : Yürürlük ve Yürütme
+=============================
 
 Yürürlük
 """"""""

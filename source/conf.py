@@ -90,6 +90,8 @@ html_theme_options = {
     'github_repo': 'dokuman',
 }
 
+html_use_index = True
+
 
 def setup(app):
     app.add_stylesheet('dokuman.css')
